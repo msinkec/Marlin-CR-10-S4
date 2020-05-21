@@ -1,3 +1,5 @@
+Firmware for the CR-10 S4 with a 4mm induction sensor for bed leveling.
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
